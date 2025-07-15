@@ -1,0 +1,6 @@
+__pycache__/*
+utils/__pycache__/*
+digital_twins_pipeline/__pycache__/*
+models/__pycache__/*
+retrieval_pipeline/__pycache__/*
+data/*
